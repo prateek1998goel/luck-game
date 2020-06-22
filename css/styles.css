@@ -1,0 +1,19 @@
+body{
+  background-color: #283747;
+  text-align: center;
+}
+footer{
+  margin-top: 30px;
+}
+h1{
+  color: red;
+  height: 50px;
+  font-size: 70px;
+}
+.container{
+  font-size: 40px;
+  color: red;
+  width: 30rem;
+  height: 10rem;
+  display: inline-block;
+}
